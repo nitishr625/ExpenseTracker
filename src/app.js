@@ -3,7 +3,7 @@ import NewExpense from './components/NewExpense/NewExpense';
 import Expenses from "./components/Expenses/Expenses";
 
 let DUMMY_EXPENSE = [
-  {
+  /*{
     id:'e1',
     title: 'School fee',
     amount:250,
@@ -29,7 +29,7 @@ let DUMMY_EXPENSE = [
     title: 'Food',
     amount:400,
     date: new Date(2022, 5, 20)
-  }
+  }*/
 
 ];
 
